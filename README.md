@@ -9,3 +9,4 @@ do
   git commit -m "Backdated commit $i"
 done
 git push origin main
+git init
