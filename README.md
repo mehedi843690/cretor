@@ -10,3 +10,4 @@ do
 done
 git push origin main
 git init
+git init
