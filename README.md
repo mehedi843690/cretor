@@ -22,3 +22,6 @@ git commit -m "Commit 1"
 echo "Commit 2" >> log.txt
 git add log.txt
 git commit -m "Commit 2"
+echo "Commit 3" >> log.txt
+git add log.txt
+git commit -m "Commit 3"
