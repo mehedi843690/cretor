@@ -1,3 +1,6 @@
+git branch -M main
+git remote add origin <repo-url>
+git push -u origin main
 git add .
 git commit -m "Update notes"
 for i in {1..25}
@@ -46,3 +49,6 @@ git commit -m "Minor update"
 git commit -m "Progress"
 git commit -m "Refactor notes"
 git commit -m "Small improvement"
+git branch -M main
+git remote add origin <repo-url>
+git push -u origin main
