@@ -39,3 +39,6 @@ git commit -m "Commit 1"
 echo "Commit 2" >> progress.txt
 git add progress.txt
 git commit -m "Commit 2"
+echo "Commit X" >> progress.txt
+git add progress.txt
+git commit -m "Commit X"
