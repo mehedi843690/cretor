@@ -16,3 +16,6 @@ touch log.txt
 echo "Commit 1" >> log.txt
 git add log.txt
 git commit -m "Commit 1"
+echo "Commit 1" >> log.txt
+git add log.txt
+git commit -m "Commit 1"
