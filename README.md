@@ -33,3 +33,6 @@ git remote add origin <your-repo-url>
 git push -u origin main
 git init
 touch progress.txt
+echo "Commit 1" >> progress.txt
+git add progress.txt
+git commit -m "Commit 1"
