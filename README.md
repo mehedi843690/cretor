@@ -28,3 +28,6 @@ git commit -m "Commit 3"
 echo "Commit X" >> log.txt
 git add log.txt
 git commit -m "Commit X"
+git branch -M main
+git remote add origin <your-repo-url>
+git push -u origin main
