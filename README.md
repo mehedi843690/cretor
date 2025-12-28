@@ -42,3 +42,7 @@ git commit -m "Commit 2"
 echo "Commit X" >> progress.txt
 git add progress.txt
 git commit -m "Commit X"
+git commit -m "Minor update"
+git commit -m "Progress"
+git commit -m "Refactor notes"
+git commit -m "Small improvement"
